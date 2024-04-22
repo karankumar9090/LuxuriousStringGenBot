@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codebitey&repo=STRINGBOT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AimmXD&repo=STRINGBOT&theme=flag-india)
 
-[![GIF](https://github.com/codebitey/STRINGBOT/blob/main/codebitey.gif)](https://github.com/codebitey)
-   [![CodeBitey](https://github-stats-alpha.vercel.app/api?username=codebitey "codebitey")](https://github-stats-alpha.vercel.app/api?username=codebitey "codebitey")
+[![GIF](https://github.com/AimmXD/STRINGBOT/blob/main/AimmXD.gif)](https://github.com/AimmXD)
+   [![AimmXD](https://github-stats-alpha.vercel.app/api?username=AimmXD "AimmXD")](https://github-stats-alpha.vercel.app/api?username=AimmXD "AimmXD")
                   
 
 
@@ -17,10 +17,10 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codebitey/STRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="140" height="30"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AimmXD/STRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="150" height="35"/></a></p>
 
   
-<p><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebitey&show_icons=true&locale=en&layout=compact" alt="codebitey" /></p>
+<p><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AimmXD&show_icons=true&locale=en&layout=compact" alt="AimmXD" /></p>
 
 ### Demo : 
 Bot Link - <a href="https://t.me/sessionfatherbot"> Sᴇssɪᴏɴ Fᴀᴛʜᴇʀ </a>
