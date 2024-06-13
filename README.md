@@ -17,7 +17,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AimmXD/STRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="150" height="35"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/karankumar9090/LuxuriousStringGenBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="150" height="35"/></a></p>
 
   
 <p><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AimmXD&show_icons=true&locale=en&layout=compact" alt="AimmXD" /></p>
