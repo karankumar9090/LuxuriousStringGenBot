@@ -174,7 +174,7 @@ async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: 
         string_session = client.session.save()
     else:
         string_session = await client.export_session_string()
-    text = f"**Tʜɪs ɪs ʏᴏᴜʀ {ty} sᴛʀɪɴɢ sᴇssɪᴏɴ** \n\n`{string_session}` \n\n**Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ :** @LuxuriousStringGenBot\n🍒 **𝖭𝖮𝖳𝖤 :** ᴅᴏɴ'ᴛ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ."
+    text = f"**Tʜɪs ɪs ʏᴏᴜʀ {ty} sᴛʀɪɴɢ sᴇssɪᴏɴ** \n\n`{string_session}` \n\n**Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ :** @LuxuriousStringsGenBot\n🍒 **𝖭𝖮𝖳𝖤 :** ᴅᴏɴ'ᴛ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ."
     try:
         if not is_bot:
             await client.send_message("me", text)
