@@ -24,8 +24,8 @@ Nᴏ ᴇʀʀᴏʀ.""",
                     InlineKeyboardButton(text="Gᴇɴᴇʀᴀᴛᴇ Sᴛʀɪɴɢ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton(" Sᴜᴘᴘᴏʀᴛ", url="https://t.me/AimXsupport"),
-                    InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url="https://t.me/AimXbots")
+                    InlineKeyboardButton(" Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Luxurious_Group"),
+                    InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url="https://t.me/Luxurious_Network")
                 ]
             ]
         ),
